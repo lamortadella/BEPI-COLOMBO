@@ -1,1 +1,23 @@
 BEPPE-COLOMBO
+
+note_COLOMBO.pdf   pdf file with all figures
+
+synth_CALSPEC.tab
+synth_CALSPEC_BPRP.tab
+
+readcol,"synth_CALSPEC_BPRP.tab", namedr3,H550mag_BPRP, H750mag_BPRP, H880mag_BPRP, Hpanmag_BPRP, $
+S420mag_BPRP,S550mag_BPRP,S740mag_BPRP,S920mag_BPRP,Spanmag_BPRP
+
+readcol,"synth_CALSPEC.tab", namedr3,H550mag_vec, H750mag_vec, H880mag_vec, Hpanmag_vec, $
+S420mag_vec,S550mag_vec,S740mag_vec,S920mag_vec,Spanmag_vec,$
+phot_g_mean_mag,phot_bp_mean_mag,phot_rp_mean_mag,bp_rp
+
+
+synth_NGSL.tab
+synth_NGSL_BPRP.tab
+
+synth_SPSS_BPRP.tab
+synth_SPSS.tab
+
+synth_PVL.tab
+synth_PVL_BPRP.tab
