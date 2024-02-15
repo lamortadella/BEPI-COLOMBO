@@ -17,7 +17,9 @@ synth_NGSL.tab
 synth_NGSL_BPRP.tab
 
 synth_SPSS_BPRP.tab
-synth_SPSS.tab
+synth_SPSS.tab          v3.3
+synth_SPSSv3.4v2.tab    v3.4
+
 
 synth_PVL.tab
 synth_PVL_BPRP.tab
